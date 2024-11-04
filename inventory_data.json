@@ -1,0 +1,9 @@
+{
+    "1": {
+        "name": "Mobile phones",
+        "description": "iphone",
+        "quantity": 200,
+        "retail_price": 200.0,
+        "wholesale_price": 300.0
+    }
+}
